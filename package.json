@@ -1,0 +1,23 @@
+{
+  "name": "n00b",
+  "version": "1.0.0",
+  "description": "A tiny node server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlpennell/node-n00b.git"
+  },
+  "author": "RLP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlpennell/node-n00b/issues"
+  },
+  "homepage": "https://github.com/rlpennell/node-n00b#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
